@@ -6,7 +6,7 @@
 ## Features
 - All capital & lowercase Latin alphabets (A - Z & a - z)
 - Numerals 0 - 9 (in both old style & tabular lining style, with the former being the default)
-- All common punctuations (,.;:!?()-... en & em dashes)
+- All common punctuations (,.;:!?()-... quotes, en & em dashes)
 - All standard and some discretionary ligatures (fi, fl, ff, ffi, ffl, ft, fj, ffj)
 
 ## Development
